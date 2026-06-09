@@ -1,0 +1,20 @@
+{
+  "site": "Vale do Revólver",
+  "location": "Presidente Getúlio, Santa Catarina, Brazil",
+  "coordinates": {
+    "latitude": -26.89,
+    "longitude": -49.37
+  },
+  "elevation_m": 200,
+  "canyon_depth_m": 350,
+  "dominant_air_mass": "South Atlantic oceanic",
+  "observed_signatures": {
+    "acoustic": "two-phase (descent rumble + impact boom)",
+    "seismic_ML": "2.0-3.0",
+    "erosion_scar_tonnes": "1-10",
+    "clay_content_scar": "zero",
+    "cloud_iridescence": true,
+    "precursor_sky_color": "orange-yellow"
+  },
+  "reference": "Haas (2024) arXiv:2411.08219"
+}
